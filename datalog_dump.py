@@ -5,7 +5,7 @@
 
 import logging
 
-from datalog import DataLogReader
+from .datalog import DataLogReader
 
 import mmap
 import sys
